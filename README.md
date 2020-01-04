@@ -7,7 +7,7 @@ It's a Shooting Game, you have to kill all the "weird" Crabs and collect the hid
 to move your SOLDIER use your keyboard arrows or WASD Keys (W: up, A: left, S: down, and D: right)
 
 ## Screenshot:
-<img src="Screenshot\soldier SS.PNG"/>
+<img src="screenshot\soldier SS.PNG"/>
 
 ## Game logic:
 3 STARS = MISSION COMPLETE
